@@ -1,1 +1,1 @@
-print("Update function B, create conflicts")
+print("Update function B, feature_b_conflict branch, create conflicts")
