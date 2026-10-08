@@ -1,1 +1,1 @@
-print("Function B")
+print("Update function B, create conflicts")
